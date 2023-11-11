@@ -1,0 +1,17 @@
+{
+    "name": "devlokman/week-picker",
+    "autoload": {
+        "psr-4": {
+            "Devlokman\\WeekPicker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lokman Günyeli",
+            "email": "dev@lokman.at"
+        }
+    ],
+    "require": {
+        "livewire/livewire": "3.0"
+    }
+}
